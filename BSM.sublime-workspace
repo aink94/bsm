@@ -1,0 +1,525 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"des",
+				"description"
+			],
+			[
+				"con",
+				"config('app"
+			],
+			[
+				"fon",
+				"font-family: 〔property〕"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"lo",
+				"lock"
+			],
+			[
+				"ret",
+				"return〔keyword〕"
+			],
+			[
+				"Rou",
+				"Route::get	Basic Get Route."
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"sec",
+				"section"
+			],
+			[
+				"v",
+				"view"
+			],
+			[
+				"Route",
+				"Route::get	Basic Get Route."
+			],
+			[
+				"ch",
+				"check"
+			],
+			[
+				"form",
+				"formopen	{!! Form::open() !!}"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"fu",
+				"fun	function …"
+			],
+			[
+				"Tra",
+				"transaksi"
+			],
+			[
+				"th",
+				"this"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 583,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/home.blade.php",
+			"settings":
+			{
+				"buffer_size": 132,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/layouts/template.blade.php",
+			"settings":
+			{
+				"buffer_size": 16315,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 265.0,
+		"selected_items":
+		[
+			[
+				"comm",
+				"Snippet: Item for sublime-commands (caption, command)"
+			],
+			[
+				"laraser",
+				"Laravel Artisan 5: Serve"
+			],
+			[
+				"packi",
+				"Package Control: Install Package"
+			],
+			[
+				"larave",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"laravemake:co",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"laravel",
+				"Laravel Artisan 5: Serve"
+			],
+			[
+				"make",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Set Syntax: PHP"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/TA",
+		"/E/TA/app",
+		"/E/TA/database",
+		"/E/TA/database/migrations"
+	],
+	"file_history":
+	[
+		"/E/TA/resources/views/login.blade.php",
+		"/E/TA/public/lock_screen.html",
+		"/E/TA/resources/views/layouts/authentication.blade.php",
+		"/E/TA/resources/views/lockscreen.blade.php",
+		"/E/TA/config/app.php",
+		"/E/TA/resources/views/layouts/template.blade.php",
+		"/E/TA/public/login.html",
+		"/E/TA/app/Http/Controllers/HomeController.php",
+		"/E/TA/routes/web.php",
+		"/E/TA/BSM.sublime-project",
+		"/E/TA/resources/views/welcome.blade.php",
+		"/E/BSM/app/Http/Middleware/VerifyCsrfToken.php",
+		"/E/BSM/app/Http/Middleware/EncryptCookies.php",
+		"/E/BSM/app/User.php",
+		"/G/[LARAVEL]/mm_zamus/tests/TestCase.php",
+		"/G/[LARAVEL]/mm_zamus/tests/ExampleTest.php",
+		"/G/[LARAVEL]/mm_zamus/tests/Test.php",
+		"/G/[LARAVEL]/mm_zamus/tests/TestHamid.php",
+		"/G/[LARAVEL]/mm_zamus/config/app.php",
+		"/G/[LARAVEL]/mm_zamus/config/view.php",
+		"/G/[LARAVEL]/mm_zamus/routes/web.php",
+		"/G/[LARAVEL]/mm_zamus/app/Providers/BroadcastServiceProvider.php",
+		"/G/[LARAVEL]/mm_zamus/bootstrap/app.php",
+		"/G/[LARAVEL]/mm_zamus/bootstrap/autoload.php",
+		"/G/[LARAVEL]/mm_zamus/bootstrap/cache/services.php",
+		"/G/[LARAVEL]/mm_zamus/app/Status.php",
+		"/G/[LARAVEL]/mm_zamus/app/Menu.php",
+		"/G/[LARAVEL]/mm_zamus/vendor/composer/LICENSE",
+		"/G/[LARAVEL]/mm_zamus/vendor/symfony/console/Exception/LogicException.php",
+		"/G/[LARAVEL]/mm_zamus/public/plugins/ckeditor/lang/en-au.js",
+		"/G/[LARAVEL]/mm_zamus/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayDimFetch.php",
+		"/G/[LARAVEL]/mm_zamus/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/EncapsedStringPart.php",
+		"/G/[LARAVEL]/mm_zamus/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/StaticVar.php",
+		"/G/[LARAVEL]/mm_zamus/vendor/swiftmailer/swiftmailer/lib/classes/Swift/SmtpTransport.php",
+		"/G/[LARAVEL]/mm_zamus/vendor/symfony/http-foundation/Tests/ApacheRequestTest.php",
+		"/G/[LARAVEL]/mm_zamus/vendor/symfony/console/Input/InputArgument.php",
+		"/G/[LARAVEL]/mm_zamus/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/StringStartsWithTest.php",
+		"/G/[LARAVEL]/mm_zamus/vendor/laravel/framework/src/Illuminate/Console/Events/ArtisanStarting.php",
+		"/G/[LARAVEL]/mm_zamus/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/Strategy.php",
+		"/G/[LARAVEL]/mm_zamus/vendor/phpunit/phpunit/src/Framework/Constraint/StringStartsWith.php",
+		"/G/[LARAVEL]/mm_zamus/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/StringStartsWith.php",
+		"/G/[LARAVEL]/mm_zamus/vendor/mockery/mockery/examples/starship/StarshipTest.php",
+		"/G/[LARAVEL]/mm_zamus/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php",
+		"/G/[LARAVEL]/mm_zamus/vendor/mockery/mockery/docs/reference/startup_methods.rst",
+		"/G/[LARAVEL]/mm_zamus/vendor/symfony/translation/Catalogue/TargetOperation.php",
+		"/G/[LARAVEL]/mm_zamus/vendor/mockery/mockery/examples/starship/Starship.php",
+		"/G/[LARAVEL]/mm_zamus/vendor/symfony/yaml/Tests/Fixtures/sfTests.yml",
+		"/G/[LARAVEL]/mm_zamus/server.php",
+		"/G/[LARAVEL]/mm_zamus/app/Providers/AppServiceProvider.php",
+		"/G/[LARAVEL]/mm_zamus/app/Providers/RouteServiceProvider.php",
+		"/G/[LARAVEL]/mm_zamus/app/Users.php",
+		"/G/[LARAVEL]/mm_zamus/resources/views/layouts/template.blade.php",
+		"/G/[LARAVEL]/mm_zamus/app/Submenu.php",
+		"/G/[LARAVEL]/mm_zamus/resources/views/auth/login.blade.php",
+		"/G/[LARAVEL]/mm_zamus/resources/views/dashboard.blade.php",
+		"/G/[LARAVEL]/mm_zamus/app/Http/Controllers/HomeController.php",
+		"/G/[LARAVEL]/mm_zamus/resources/views/layouts/auth.blade.php",
+		"/G/[LARAVEL]/mm_zamus/resources/views/fixed/controlpanel.blade.php",
+		"/G/[LARAVEL]/mm_zamus/resources/views/auth/lockscreen.blade.php",
+		"/G/[LARAVEL]/mm_zamus/resources/views/master.blade.php",
+		"/G/[LARAVEL]/mm_zamus/resources/views/dasboard.blade.php",
+		"/G/[LARAVEL]/mm_zamus/app/Http/Controllers/AuthController.php",
+		"/G/[LARAVEL]/mm_zamus/app/Http/Requests/LoginRequest.php",
+		"/G/[LARAVEL]/mm_zamus/.env",
+		"/G/[LARAVEL]/mm_zamus/composer.json",
+		"/G/[LARAVEL]/mm_zamus/config/auth.php",
+		"/G/[LARAVEL]/mm_zamus/app/Transaksi.php",
+		"/G/[LARAVEL]/mm_zamus/.env.example",
+		"/G/[LARAVEL]/mm_zamus/app/Pelanggan.php",
+		"/G/[LARAVEL]/mm_zamus/app/Supplier.php",
+		"/G/[LARAVEL]/mm_zamus/app/Produk.php",
+		"/G/[LARAVEL]/mm_zamus/app/TransaksiDetail.php",
+		"/G/[LARAVEL]/mm_zamus/app/ProdukMasuk.php",
+		"/G/[LARAVEL]/mm_zamus/app/ProdukKeluar.php",
+		"/G/[LARAVEL]/mm_zamus/app/ProdukDetail.php",
+		"/G/[LARAVEL]/mm_zamus/app/DetailProduk.php",
+		"/G/[LARAVEL]/mm_zamus/app/ProdukSatuan.php",
+		"/G/[LARAVEL]/mm_zamus/app/ProdukKategori.php",
+		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_171301_BuatTableTransaksi.php",
+		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_171323_BuatTableDetailTransaksi.php",
+		"/G/[LARAVEL]/mm_zamus/app/User.php",
+		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_171213_BuatTableBarangKeluar.php",
+		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_171136_BuatTableBarangMasuk.php",
+		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_171114_BuatTableDetailBarang.php",
+		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_171029_BuatTableSupplier.php",
+		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_170957_BuatTablePelanggan.php",
+		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_170929_BuatTableBarang.php",
+		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_170910_BuatTableSatuan.php",
+		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_170853_BuatTableKategori.php",
+		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_170802_BuatTableUsers.php",
+		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_170734_BuatTableAturanSubMenu.php",
+		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_170723_BuatTableAturanMenu.php",
+		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_170654_BuatTableStatus.php",
+		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_170609_BuatTableSubMenu.php",
+		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_170553_BuatTableMenu.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"    </",
+			";\"></",
+			"',\n",
+			"php",
+			"            </",
+			"div",
+			"\n	{{Html",
+			"	{{",
+			"class",
+			"type",
+			"class",
+			"assets",
+			"endif]-->\n  ",
+			"]-->\n",
+			"assets",
+			"hamid",
+			"Faisal",
+			"		            Faisal abdul hamid\n",
+			"Faisal",
+			"$data",
+			"transaksi"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 583,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								515,
+								515
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/home.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								119,
+								119
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/layouts/template.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10221,
+								10221
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 758.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 105.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "BSM.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

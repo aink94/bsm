@@ -1,0 +1,13 @@
+{
+    "name": "bsm/rfid",
+    "description": "Package Rfid-Reader",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Faisal Abdul Hamid",
+            "email": "faisal.abdulhamid@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
