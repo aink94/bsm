@@ -3,7 +3,11 @@
 	[
 		{
 			"follow_symlinks": true,
-			"path": "."
+			"path": "\\\\RASPBERRYPI\\PiMinimart\\minimarket"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "\\\\RASPBERRYPI\\PiMinimart\\rfid-node"
 		}
 	]
 }

@@ -52,22 +52,25 @@ var formhapus = '' +
     '</div>'+
     '</form>';
 var table = $("#table").DataTable({
-	"processing": true,
+	"processing"  : true,
     //"serverSide": true,
-    "paging": true,
+    "paging"      : true,
     "lengthChange": false,
-    "searching": true,
-    "ordering": false,
-    "info": false,
-    "autoWidth": false,
-    "select": {
+    "searching"   : true,
+    "ordering"    : false,
+    "info"        : false,
+    "autoWidth"   : false,
+    "select"      : {
         style: 'single'
     },
-    "ajax": {
-        "url" : "/pegawai/data-pegawai",
+    "ajax"        : {
+    	"context" :{
+    		"context" : "table"
+    	},
+        "url"     : "/pegawai/data-pegawai",
         "dataSrc" : "data"
     },
-    "columns" : [
+    "columns"     : [
         {"data": "id"},
         {"data": "nama"},
         {"data": "username"},

@@ -1,0 +1,13 @@
+{
+  "name": "bsm-client",
+  "homepage": "https://github.com/aink94/bsm",
+  "authors": [
+    "Faisal Abdul Hamid <faisal.abdulhamid@gmail.com>"
+  ],
+  "description": "client bsm",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io-client": "^1.5.1"
+  }
+}

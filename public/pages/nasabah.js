@@ -43,21 +43,24 @@ var formhapus = '' +
     '</form>';
 var table = $("#table").DataTable({
 	"processing": true,
-    //"serverSide": true,
-    "paging": true,
+    //"serverSide"  : true,
+    "paging"      : true,
     "lengthChange": false,
-    "searching": true,
-    "ordering": false,
-    "info": false,
-    "autoWidth": false,
-    "select": {
+    "searching"   : true,
+    "ordering"    : false,
+    "info"        : false,
+    "autoWidth"   : false,
+    "select"      : {
         style: 'single'
     },
-    "ajax": {
-        "url" : "/nasabah/data-nasabah",
+    "ajax"        :{
+    	"context" :{
+    		"context" : "table"
+    	},
+        "url"     : "/nasabah/data-nasabah",
         "dataSrc" : "data"
     },
-    "columns" : [
+    "columns"     : [
         {"data": "nis"},
         {"data": "nama"},
         {"data": "kartu"}

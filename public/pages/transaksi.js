@@ -22,22 +22,25 @@ var formhapus = '' +
     '</div>'+
     '</form>';
 var table = $("#table").DataTable({
-	"processing": true,
+	"processing"  : true,
     //"serverSide": true,
-    "paging": true,
+    "paging"      : true,
     "lengthChange": false,
-    "searching": true,
-    "ordering": false,
-    "info": false,
+    "searching"   : true,
+    "ordering"    : false,
+    "info"        : false,
     "autoWidth": false,
-    "select": {
+    "select"      : {
         style: 'single'
     },
-    "ajax": {
-        "url" : "/transaksi/get-data-per-day",
+    "ajax"        : {
+    	"context" : {
+    		"context" : "table"
+    	},
+        "url"     : "/transaksi/get-data-per-day",
         "dataSrc" : "data"
     },
-    "columns" : [
+    "columns"     : [
         {"data": "nasabah"},
         {"data": "tanggal"},
         {"data": "jumlah"},

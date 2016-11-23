@@ -6,6 +6,7 @@
     <meta name="description" content="{{ config('app.description') }}">
     <meta name="author" content="{{ config('app.author') }}">
     <meta name="keyword" content="{{ config('app.name') }}, {{ config('app.description') }}">
+    <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <title>@yield('title')</title>
 
@@ -17,6 +18,7 @@
     <!-- Custom styles for this template -->
     {{ Html::style('assets/css/style.css') }}
     {{ Html::style('assets/css/style-responsive.css') }}
+    {{Html::style('assets/js/gritter/css/jquery.gritter.css')}}
 
     @stack('css')
 
@@ -38,6 +40,12 @@
     <!--BACKSTRETCH-->
     <!-- You can use an image of whatever size. This script will stretch to fit in any screen size.-->
     {{ Html::script('assets/js/jquery.backstretch.min.js')}}
+
+    <!--common script for all pages-->
+    {{ Html::script('assets/js/gritter/js/jquery.gritter.js') }}    
+    {{ Html::script('assets/js/gritter-conf.js') }}
+    {{ Html::script('js/index.js') }}
+
     <script>
         $.backstretch("assets/img/login-bg.jpg", {speed: 500});
     </script>

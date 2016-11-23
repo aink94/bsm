@@ -140,7 +140,7 @@ Route::group(['prefix' => 'pegawai', 'middleware'=>'auth'], function() {
 Route::group(['prefix' => 'laporan', 'middleware'=>'auth'], function(){
     //Halaman-Laporan
     Route::get('/', [
-        'uses'=>'NasabahController@index',
+        'uses'=>'LaporanController@index',
         'as'=>'laporan'
     ]);      
 });

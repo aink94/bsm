@@ -38,22 +38,25 @@ var formhapus = '' +
     '</div>'+
     '</form>';
 var table = $("#table").DataTable({
-	"processing": true,
-    //"serverSide": true,
-    "paging": true,
+	//"processing"  : true,
+    //"serverSide"  : true,
+    "paging"      : true,
     "lengthChange": false,
-    "searching": true,
-    "ordering": false,
-    "info": false,
-    "autoWidth": false,
-    "select": {
+    "searching"   : true,
+    "ordering"    : false,
+    "info"        : false,
+    "autoWidth"   : false,
+    "select"      : {
         style: 'single'
     },
-    "ajax": {
-        "url" : "/koperasi/data-koperasi",
+    "ajax"        : {
+        "context" : {
+            "context" : "table"
+        },
+        "url"     : "/koperasi/data-koperasi",
         "dataSrc" : "data"
     },
-    "columns" : [
+    "columns"     : [
         {"data": "id"},
         {"data": "nama"},
         {"data": "date_open"},

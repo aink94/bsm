@@ -4,6 +4,110 @@
 		"selected_items":
 		[
 			[
+				"co",
+				"console"
+			],
+			[
+				"on",
+				"onExit"
+			],
+			[
+				"p",
+				"prototype"
+			],
+			[
+				"soc",
+				"sockets"
+			],
+			[
+				"t",
+				"timeout	setTimeout function"
+			],
+			[
+				"sett",
+				"setting〔argument〕"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"sw",
+				"switch	Arduino switch"
+			],
+			[
+				"ch",
+				"choice"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"l",
+				"loop	Arduino loop"
+			],
+			[
+				"pin",
+				"pinBuzzer"
+			],
+			[
+				"pi",
+				"pinBuzzer"
+			],
+			[
+				"data",
+				"datarfid"
+			],
+			[
+				"ui",
+				"uidRfid"
+			],
+			[
+				"re",
+				"readCard"
+			],
+			[
+				"Js",
+				"JsonObject"
+			],
+			[
+				"cre",
+				"create"
+			],
+			[
+				"b",
+				"break"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"cone",
+				"context"
+			],
+			[
+				"conte",
+				"context"
+			],
+			[
+				"Dat",
+				"DataTable"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
 				"des",
 				"description"
 			],
@@ -40,10 +144,6 @@
 				"script"
 			],
 			[
-				"st",
-				"style"
-			],
-			[
 				"sec",
 				"section"
 			],
@@ -54,10 +154,6 @@
 			[
 				"Route",
 				"Route::get	Basic Get Route."
-			],
-			[
-				"ch",
-				"check"
 			],
 			[
 				"form",
@@ -76,10 +172,6 @@
 				"foreach	foreach …"
 			],
 			[
-				"fu",
-				"fun	function …"
-			],
-			[
 				"Tra",
 				"transaksi"
 			],
@@ -92,26 +184,42 @@
 	"buffers":
 	[
 		{
-			"file": "routes/web.php",
+			"file": "//RASPBERRYPI/PiMinimart/minimarket/node_modules/MFRC522-node/MFRC522-python/modul.py",
 			"settings":
 			{
-				"buffer_size": 583,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "resources/views/home.blade.php",
-			"settings":
-			{
-				"buffer_size": 132,
+				"buffer_size": 2691,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "resources/views/layouts/template.blade.php",
+			"file": "//RASPBERRYPI/PiMinimart/minimarket/node_modules/MFRC522-node/MFRC522-python/Dump.py",
 			"settings":
 			{
-				"buffer_size": 16315,
+				"buffer_size": 1374,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "//RASPBERRYPI/PiMinimart/minimarket/node_modules/MFRC522-node/MFRC522-python/Read.py",
+			"settings":
+			{
+				"buffer_size": 1663,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "//RASPBERRYPI/PiMinimart/minimarket/node_modules/MFRC522-node/MFRC522-python/Write.py",
+			"settings":
+			{
+				"buffer_size": 2672,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "//RASPBERRYPI/PiMinimart/minimarket/node_modules/MFRC522-node/MFRC522-python/MFRC522.py",
+			"settings":
+			{
+				"buffer_size": 10302,
 				"line_ending": "Windows"
 			}
 		}
@@ -119,9 +227,17 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 265.0,
+		"height": 150.0,
 		"selected_items":
 		[
+			[
+				"set S js",
+				"Set Syntax: JSON"
+			],
+			[
+				"arduino",
+				"Set Syntax: Arduino"
+			],
 			[
 				"comm",
 				"Snippet: Item for sublime-commands (caption, command)"
@@ -167,7 +283,7 @@
 				"Preferences: Browse Packages"
 			]
 		],
-		"width": 512.0
+		"width": 480.0
 	},
 	"console":
 	{
@@ -188,13 +304,90 @@
 	},
 	"expanded_folders":
 	[
-		"/E/TA",
-		"/E/TA/app",
-		"/E/TA/database",
-		"/E/TA/database/migrations"
+		"//RASPBERRYPI/PiMinimart/minimarket",
+		"//RASPBERRYPI/PiMinimart/minimarket/node-js",
+		"//RASPBERRYPI/PiMinimart/minimarket/node_modules",
+		"//RASPBERRYPI/PiMinimart/minimarket/node_modules/MFRC522-node",
+		"//RASPBERRYPI/PiMinimart/minimarket/node_modules/MFRC522-node/MFRC522-python",
+		"//RASPBERRYPI/PiMinimart/rfid-node"
 	],
 	"file_history":
 	[
+		"//RASPBERRYPI/PiMinimart/minimarket/resources/views/transaksi.blade.php",
+		"//RASPBERRYPI/PiMinimart/minimarket/public/js/transaksi.js",
+		"//RASPBERRYPI/PiMinimart/minimarket/node-js/app.js",
+		"//RASPBERRYPI/PiMinimart/minimarket/node_modules/MFRC522-node/index.js",
+		"//RASPBERRYPI/PiMinimart/minimarket/node_modules/MFRC522-node/MFRC522-python/Dump.py",
+		"//RASPBERRYPI/PiMinimart/rfid-node/rfid2.html",
+		"//RASPBERRYPI/PiMinimart/rfid-node/index.js",
+		"//RASPBERRYPI/PiMinimart/rfid-node/node_modules/socket.io/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-block-scoping/node_modules/lodash/_getAllKeysIn.js",
+		"//RASPBERRYPI/PiMinimart/minimarket/app/model/Transaksi.php",
+		"//RASPBERRYPI/PiMinimart/minimarket/vendor/phpdocumentor/type-resolver/src/TypeResolver.php",
+		"/C/Users/Faisal Abdul Hamid/Documents/Arduino/arduino-rfid/arduino-rfid.ino",
+		"/C/Users/Faisal Abdul Hamid/Documents/Arduino/rfid-node/rfid-node.ino",
+		"/E/LARAVEL/bsm/routes/web.php",
+		"/E/LARAVEL/bsm/public/js/index.js",
+		"/E/LARAVEL/bsm/resources/views/layouts/template.blade.php",
+		"/E/LARAVEL/bsm/public/pages/koperasi.js",
+		"/E/LARAVEL/bsm/app/Http/Controllers/LaporanController.php",
+		"/E/LARAVEL/bsm/routes/console.php",
+		"/E/LARAVEL/bsm/routes/api.php",
+		"/E/LARAVEL/bsm/readme.md",
+		"/E/LARAVEL/bsm/.env",
+		"/E/LARAVEL/bsm/bsm.rar",
+		"/E/LARAVEL/bsm/public/assets/js/bootstrap-switch.js",
+		"/E/LARAVEL/bsm/resources/views/example.blade.php",
+		"/E/LARAVEL/bsm/resources/views/laporan.blade.php",
+		"/E/LARAVEL/bsm/resources/views/home.blade.php",
+		"/E/LARAVEL/bsm/public/assets/bower_components/datatables.net/js/jquery.dataTables.js",
+		"/E/LARAVEL/bsm/resources/lang/id/pagination.php",
+		"/E/LARAVEL/bsm/resources/lang/id/validation.php",
+		"/E/LARAVEL/bsm/resources/lang/id/passwords.php",
+		"/E/LARAVEL/bsm/resources/lang/id/auth.php",
+		"//RASPBERRYPI/PiMinimart/minimarket/vendor/sebastian/resource-operations/composer.json",
+		"/E/LARAVEL/bsm/app/Model/Koperasi.php",
+		"//RASPBERRYPI/PiMinimart/minimarket/vendor/symfony/http-kernel/Tests/Fixtures/KernelForOverrideName.php",
+		"//RASPBERRYPI/PiMinimart/minimarket/app/Console/Kernel.php",
+		"/E/LARAVEL/bsm/public/pages/transaksi.js",
+		"/E/LARAVEL/bsm/public/pages/pegawai.js",
+		"/E/LARAVEL/bsm/public/pages/nasabah.js",
+		"/E/LARAVEL/bsm/public/pages/home.js",
+		"//RASPBERRYPI/PiMinimart/minimarket/vendor/phpunit/php-text-template/src/Template.php",
+		"//RASPBERRYPI/PiMinimart/minimarket/resources/views/layouts/template.blade.php",
+		"/E/LARAVEL/bsm/nodejs/node_modules/xmlhttprequest/tests/test-events.js",
+		"/E/LARAVEL/bsm/app/Http/Controllers/AuthenticationController.php",
+		"//RASPBERRYPI/PiMinimart/minimarket/public/js/rfid.js",
+		"/E/LARAVEL/bsm/resources/views/layouts/authentication.blade.php",
+		"/E/LARAVEL/bsm/public/pages/login.js",
+		"//RASPBERRYPI/PiMinimart/minimarket/config/auth.php",
+		"//RASPBERRYPI/PiMinimart/minimarket/app/Http/Controllers/AuthController.php",
+		"//RASPBERRYPI/PiMinimart/minimarket/bootstrap/autoload.php",
+		"//RASPBERRYPI/PiMinimart/minimarket/vendor/symfony/dom-crawler/AbstractUriElement.php",
+		"//RASPBERRYPI/PiMinimart/minimarket/artisan",
+		"//RASPBERRYPI/PiMinimart/minimarket/public/assets/bower_components/components-font-awesome/less/rotated-flipped.less",
+		"//RASPBERRYPI/PiMinimart/minimarket/readme.md",
+		"/E/LARAVEL/bsm/app/Model/Nasabah.php",
+		"//RASPBERRYPI/PiMinimart/minimarket/public/assets/bower_components/NotificationStyles/attached-bouncyflip.html",
+		"//RASPBERRYPI/PiMinimart/minimarket/vendor/jeremeamia/SuperClosure/src/Analyzer/AstAnalyzer.php",
+		"//RASPBERRYPI/PiMinimart/minimarket/vendor/composer/autoload_static.php",
+		"//RASPBERRYPI/PiMinimart/minimarket/public/js/apps.js",
+		"/E/LARAVEL/bsm/public/assets/bower.json",
+		"/E/LARAVEL/bsm/public/js/rfid.js",
+		"/E/LARAVEL/bsm/public/js/app.js",
+		"//RASPBERRYPI/PiMinimart/minimarket/public/js/laporan-penjualan.js",
+		"//RASPBERRYPI/PiMinimart/minimarket/routes/web.php",
+		"//RASPBERRYPI/PiMinimart/minimarket/app/Http/Controllers/LaporanController.php",
+		"//RASPBERRYPI/PiMinimart/minimarket/resources/views/laporan-penjualan.blade.php",
+		"//RASPBERRYPI/PiMinimart/minimarket/public/js/ketegori.js",
+		"//RASPBERRYPI/PiMinimart/minimarket/resources/views/kategori.blade.php",
+		"//RASPBERRYPI/PiMinimart/minimarket/resources/views/laporan-stock-masuk.blade.php",
+		"//RASPBERRYPI/PiMinimart/minimarket/resources/views/laporan-stock-keluar.blade.php",
+		"//RASPBERRYPI/PiMinimart/minimarket/public/js/login.js",
+		"//RASPBERRYPI/PiMinimart/minimarket/app/Http/Kernel.php",
+		"//RASPBERRYPI/PiMinimart/minimarket/resources/views/layouts/auth.blade.php",
+		"/E/LARAVEL/bsm/app/Http/Controllers/NasabahController.php",
+		"/E/LARAVEL/bsm/app/Http/Controllers/KoperasiController.php",
+		"/E/LARAVEL/bsm/app/Http/Controllers/TransaksiController.php",
 		"/E/TA/resources/views/login.blade.php",
 		"/E/TA/public/lock_screen.html",
 		"/E/TA/resources/views/layouts/authentication.blade.php",
@@ -247,53 +440,11 @@
 		"/G/[LARAVEL]/mm_zamus/app/Providers/RouteServiceProvider.php",
 		"/G/[LARAVEL]/mm_zamus/app/Users.php",
 		"/G/[LARAVEL]/mm_zamus/resources/views/layouts/template.blade.php",
-		"/G/[LARAVEL]/mm_zamus/app/Submenu.php",
-		"/G/[LARAVEL]/mm_zamus/resources/views/auth/login.blade.php",
-		"/G/[LARAVEL]/mm_zamus/resources/views/dashboard.blade.php",
-		"/G/[LARAVEL]/mm_zamus/app/Http/Controllers/HomeController.php",
-		"/G/[LARAVEL]/mm_zamus/resources/views/layouts/auth.blade.php",
-		"/G/[LARAVEL]/mm_zamus/resources/views/fixed/controlpanel.blade.php",
-		"/G/[LARAVEL]/mm_zamus/resources/views/auth/lockscreen.blade.php",
-		"/G/[LARAVEL]/mm_zamus/resources/views/master.blade.php",
-		"/G/[LARAVEL]/mm_zamus/resources/views/dasboard.blade.php",
-		"/G/[LARAVEL]/mm_zamus/app/Http/Controllers/AuthController.php",
-		"/G/[LARAVEL]/mm_zamus/app/Http/Requests/LoginRequest.php",
-		"/G/[LARAVEL]/mm_zamus/.env",
-		"/G/[LARAVEL]/mm_zamus/composer.json",
-		"/G/[LARAVEL]/mm_zamus/config/auth.php",
-		"/G/[LARAVEL]/mm_zamus/app/Transaksi.php",
-		"/G/[LARAVEL]/mm_zamus/.env.example",
-		"/G/[LARAVEL]/mm_zamus/app/Pelanggan.php",
-		"/G/[LARAVEL]/mm_zamus/app/Supplier.php",
-		"/G/[LARAVEL]/mm_zamus/app/Produk.php",
-		"/G/[LARAVEL]/mm_zamus/app/TransaksiDetail.php",
-		"/G/[LARAVEL]/mm_zamus/app/ProdukMasuk.php",
-		"/G/[LARAVEL]/mm_zamus/app/ProdukKeluar.php",
-		"/G/[LARAVEL]/mm_zamus/app/ProdukDetail.php",
-		"/G/[LARAVEL]/mm_zamus/app/DetailProduk.php",
-		"/G/[LARAVEL]/mm_zamus/app/ProdukSatuan.php",
-		"/G/[LARAVEL]/mm_zamus/app/ProdukKategori.php",
-		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_171301_BuatTableTransaksi.php",
-		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_171323_BuatTableDetailTransaksi.php",
-		"/G/[LARAVEL]/mm_zamus/app/User.php",
-		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_171213_BuatTableBarangKeluar.php",
-		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_171136_BuatTableBarangMasuk.php",
-		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_171114_BuatTableDetailBarang.php",
-		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_171029_BuatTableSupplier.php",
-		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_170957_BuatTablePelanggan.php",
-		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_170929_BuatTableBarang.php",
-		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_170910_BuatTableSatuan.php",
-		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_170853_BuatTableKategori.php",
-		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_170802_BuatTableUsers.php",
-		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_170734_BuatTableAturanSubMenu.php",
-		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_170723_BuatTableAturanMenu.php",
-		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_170654_BuatTableStatus.php",
-		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_170609_BuatTableSubMenu.php",
-		"/G/[LARAVEL]/mm_zamus/database/migrations/2016_09_27_170553_BuatTableMenu.php"
+		"/G/[LARAVEL]/mm_zamus/app/Submenu.php"
 	],
 	"find":
 	{
-		"height": 31.0
+		"height": 36.0
 	},
 	"find_in_files":
 	{
@@ -307,6 +458,18 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"print",
+			"AntennaOff",
+			"AntennaOn",
+			"MFRC522_Read",
+			"MFRC522_DumpClassic1K",
+			"MFRC522_Read",
+			"MFRC522_StopCrypto1",
+			"MFRC522_DumpClassic1K",
+			"MFRC522_SelectTag",
+			"var Callback = function(){\n//   this.onStart = function(){\n//     ('silahkan scan');\n//   };\n\n//   this.onUid = function(uid){\n//     var arr = JSON.parse(\"[\"+uid+\"]\");\n\n//     var data = '';\n//     for(var i=0; i<arr.length; i++){\n//       data += decimalToHex(arr[i]);\n//     }\n//     console.log(data);\n//     io.sockets.emit('rfid', {\"data\":data});\n//   };\n//   this.onExit = function(){\n//     console.log('nuhun');\n//     io.sockets.emit('tutup', function(exp, epd){\n//       console.log(exp);\n//     });\n//   };\n// };\n// mfrc522.start(new Callback());",
+			"alert",
+			"sales",
 			"    </",
 			";\"></",
 			"',\n",
@@ -345,96 +508,161 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "routes/web.php",
+					"file": "//RASPBERRYPI/PiMinimart/minimarket/node_modules/MFRC522-node/MFRC522-python/modul.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 583,
+						"buffer_size": 2691,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								515,
-								515
+								841,
+								841
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "//RASPBERRYPI/PiMinimart/minimarket/node_modules/MFRC522-node/MFRC522-python/Dump.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1314,
+								1270
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 600.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "resources/views/home.blade.php",
+					"buffer": 2,
+					"file": "//RASPBERRYPI/PiMinimart/minimarket/node_modules/MFRC522-node/MFRC522-python/Read.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 132,
+						"buffer_size": 1663,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								119,
-								119
+								1661,
+								1344
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
-							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.x": -0.0,
+						"translation.y": 540.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "resources/views/layouts/template.blade.php",
+					"buffer": 3,
+					"file": "//RASPBERRYPI/PiMinimart/minimarket/node_modules/MFRC522-node/MFRC522-python/Write.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 16315,
+						"buffer_size": 2672,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								10221,
-								10221
+								1260,
+								1260
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "//RASPBERRYPI/PiMinimart/minimarket/node_modules/MFRC522-node/MFRC522-python/MFRC522.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8574,
+								8560
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
-							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"syntax": "Packages/Python/Python.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 758.0,
+						"translation.y": 2827.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -442,7 +670,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 31.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -482,7 +710,7 @@
 	"project": "BSM.sublime-project",
 	"replace":
 	{
-		"height": 58.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -490,6 +718,38 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"transaksi.js",
+				"minimarket\\public\\js\\transaksi.js"
+			],
+			[
+				"bsm/route",
+				"bsm\\routes\\web.php"
+			],
+			[
+				"koperasi.js",
+				"bsm\\public\\pages\\koperasi.js"
+			],
+			[
+				"temp",
+				"bsm\\resources\\views\\layouts\\template.blade.php"
+			],
+			[
+				"authen",
+				"bsm\\app\\Http\\Controllers\\AuthenticationController.php"
+			],
+			[
+				"rfid",
+				"minimarket\\public\\js\\rfid.js"
+			],
+			[
+				"asabah.js",
+				"bsm\\public\\pages\\nasabah.js"
+			],
+			[
+				"authc",
+				"app\\Http\\Controllers\\AuthController.php"
+			]
 		],
 		"width": 0.0
 	},
@@ -517,7 +777,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 260.0,
+	"side_bar_width": 238.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
