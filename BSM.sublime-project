@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "\\\\RASPBERRYPI\\PiMinimart\\minimarket"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "\\\\RASPBERRYPI\\PiMinimart\\rfid-node"
+		}
+	]
+}
