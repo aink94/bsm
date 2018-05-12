@@ -1,9 +1,9 @@
 <?php
 
-use Illuminate\Database\Seeder;
 use bsm\Model\Koperasi;
 use bsm\Model\Nasabah;
 use bsm\Model\Pegawai;
+use Illuminate\Database\Seeder;
 
 class DatabaseSeeder extends Seeder
 {
@@ -14,16 +14,14 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        
         $this->call(JenisTransaksiSeederTable::class);
         $this->call(KoperasiSeederTable::class);
         $this->call(StatusSeederTable::class);
         $this->call(MenuSeederTable::class);
-   		//$faker = Faker\Factory::create();
+        //$faker = Faker\Factory::create();
 
-   		factory(Pegawai::class, 10)->create();
+        factory(Pegawai::class, 10)->create();
         factory(Nasabah::class, 300)->create();
         factory(Koperasi::class, 300)->create();
-
     }
 }

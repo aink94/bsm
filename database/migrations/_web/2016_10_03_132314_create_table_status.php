@@ -1,8 +1,8 @@
 <?php
 
-use Illuminate\Support\Facades\Schema;
-use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
 
 class CreateTableStatus extends Migration
 {
@@ -15,7 +15,7 @@ class CreateTableStatus extends Migration
     {
         Schema::create('status', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('status',50);
+            $table->string('status', 50);
             //$table->timestamps();
         });
     }
