@@ -2,11 +2,9 @@
 
 namespace bsm\Model;
 
-use Illuminate\Database\Eloquent\Model;
-use Illuminate\Contracts\Auth\Authenticatable;
-
 use bsm\_web\Status;
-use bsm\Model\Transaksi;
+use Illuminate\Contracts\Auth\Authenticatable;
+use Illuminate\Database\Eloquent\Model;
 
 class Pegawai extends Model implements Authenticatable
 {
@@ -14,10 +12,11 @@ class Pegawai extends Model implements Authenticatable
 
     protected $table = 'pegawai';
 
-    protected $hidden = ["password", "remember_token"];
+    protected $hidden = ['password', 'remember_token'];
     protected $fillable = ['nama', 'username', 'password', 'status_id'];
 
-    public function setPasswordAttribute($value){
+    public function setPasswordAttribute($value)
+    {
         $this->attributes['password'] = bcrypt($value);
     }
 
@@ -30,8 +29,9 @@ class Pegawai extends Model implements Authenticatable
     {
         return $this->hasMany(Transaksi::class, 'pegawai_id');
     }
+
     public function getActionAttribute()
-    {   
+    {
         return '
             <div class="btn-group pull-right">
                 <button type="button" class="btn btn-xs btn-primary" id="btn-ubah" data-id="'.$this->id.'" data-nama="'.$this->nama.'" data-username="'.$this->username.'" data-status="'.$this->status_id.'"><i class="fa fa-edit"></i></button>
