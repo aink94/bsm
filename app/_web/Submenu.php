@@ -4,9 +4,6 @@ namespace bsm\_web;
 
 use Illuminate\Database\Eloquent\Model;
 
-use bsm\_web\Status;
-use bsm\_web\Menu;
-
 class Submenu extends Model
 {
     protected $table = 'submenu';
