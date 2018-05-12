@@ -8,6 +8,7 @@ use Illuminate\Support\ServiceProvider;
 class NavigationProvider extends ServiceProvider
 {
     protected $defer = true;
+
     /**
      * Bootstrap the application services.
      *
@@ -25,7 +26,7 @@ class NavigationProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->app->bind('bsm\Helpers\Navigation\Contract\NavigationContract', function(){
+        $this->app->bind('bsm\Helpers\Navigation\Contract\NavigationContract', function () {
             return new Navigation();
         });
     }
@@ -39,5 +40,4 @@ class NavigationProvider extends ServiceProvider
     {
         return ['bsm\Helpers\Navigation\Contract\NavigationContract'];
     }
-
 }

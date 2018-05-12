@@ -1,8 +1,7 @@
 <?php
 
-use Illuminate\Database\Seeder;
-use bsm\_web\Menu;
 use bsm\_web\Status;
+use Illuminate\Database\Seeder;
 
 class StatusSeederTable extends Seeder
 {
@@ -14,18 +13,17 @@ class StatusSeederTable extends Seeder
     public function run()
     {
         $status_admin = new Status();
-        $status_admin->status = "ADMIN";
+        $status_admin->status = 'ADMIN';
         $status_admin->save();
 
         $status_pegawai = new Status();
-        $status_pegawai->status = "PEGAWAI";
+        $status_pegawai->status = 'PEGAWAI';
         $status_pegawai->save();
 
         $status_manager = new Status();
-        $status_manager->status = "MANAGER";
+        $status_manager->status = 'MANAGER';
         $status_manager->save();
 
         //===============================
-        
     }
 }
